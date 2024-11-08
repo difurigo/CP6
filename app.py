@@ -95,5 +95,3 @@ if uploaded_file:
     st.pyplot(fig)
 else:
     st.info("Por favor, faça o upload do arquivo CSV.")
-
-streamlit run app.py
